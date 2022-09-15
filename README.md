@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TDunner
 - 👀 I’m interested in coding and web developement.
-- 🌱 I’m experienced in HTML, CSS, Javascript, TypeScript, React.js, Node.js, Express and PostgreSQL.
+- 🌱 I’m experienced in HTML, CSS, Javascript, TypeScript, React.js, Node.js, Express, PostgreSQL, Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on any type of website design/developement.
 - 📫 How to reach me theodore.dunner@gmail.com
 
